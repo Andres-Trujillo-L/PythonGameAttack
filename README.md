@@ -1,21 +1,20 @@
-# 👾 Space Invaders - Ataque Alien
+#  Space Invaders - Ataque Alien
 
 Este es un proyecto en Python utilizando la librería `pygame`, basado en el clásico juego *Space Invaders*, pero con mejoras significativas: estructura de clases, múltiples enemigos, sistema de disparos, y un jefe que aparece cada 20 enemigos eliminados.
 
 ---
 
-## 🛠 Características
+##  Características
 
-- 🎮 Movimiento fluido del jugador con teclas izquierda/derecha.
-- 💥 Disparos múltiples del jugador.
-- 👾 Enemigos que se mueven horizontalmente y bajan con cada cambio de dirección.
-- 🧠 Jefe que aparece cada 20 enemigos destruidos y dispara hacia el jugador.
-- 🔊 Efectos de sonido para disparos y colisiones.
-- 🖼 Interfaz visual con imágenes personalizadas y fondo.
+-  Movimiento fluido del jugador con teclas izquierda/derecha.
+-  Disparos múltiples del jugador.
+-  Enemigos que se mueven horizontalmente y bajan con cada cambio de dirección.
+-  Jefe que aparece cada 20 enemigos destruidos y dispara hacia el jugador.
+-  Efectos de sonido para disparos y colisiones.
+-  Interfaz visual con imágenes personalizadas y fondo.
 
----
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 Space-Invaders-Jefe/
@@ -37,7 +36,7 @@ Space-Invaders-Jefe/
 
 ---
 
-## ▶️ ¿Cómo ejecutar el juego?
+## ▶ ¿Cómo ejecutar el juego?
 
 1. Asegúrate de tener Python 3 instalado.
 2. Instala la librería `pygame` si aún no la tienes:
@@ -54,7 +53,7 @@ python main.py
 
 ---
 
-## 🧑‍💻 Autor
+##  Autor
 
 Desarrollado por **Andrés Trujillo** como parte de su portafolio de Data Science y Python Development. 
 
